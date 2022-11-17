@@ -1,0 +1,112 @@
+[{
+        "desc": "Corresponde a una inflamación aguda de la pared de la vesícula biliar, causada por la obstrucción del conducto cístico. Es importante indicar que  se divide en aguda o crónica. La aguda es una inflamación de corta duración, mientras que la crónica es una inflamación más prolongada.",
+        "id": "P001",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-colecistitis-aguda-1-1-150x150.jpg",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-colecistitis-aguda-3.jpg",
+        "ingredients": ["dolor abdominal", "sangrado", "vomito con sangrado", "decaimiento"],
+        "complications": ["Pancreatitis aguda", "empiema vesicular", "gangrena vesicular o colangitis obstructiva"],
+        "urgency": ["Corresponde a una Urgencia"],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Engrosamiento pared de la vesícula", "Edema del tejido adiposo perivesical", "Colelitiasis"],
+        "name": "Colecistitis aguda",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-64-imagen-1-AN-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-64-imagen-2-AN-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-66-imagen-A-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-66-imagen-B-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-67-imagen-C-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-67-imagen-D-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-67-imagen-E-2-150x150.png"
+        ]
+    },
+    {
+        "desc": "Fuga de sangre a través de una rotura en el aneurisma, es una afección realmente grave y mortal si no es tratada inmediatamente.",
+        "id": "P002",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-aneurisma-roto-1-150x150.jpg",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-aneurisma-roto.jpg",
+        "ingredients": ["Dolor en el pecho, repentino e intenso", "Dificultad para respirar", "Pérdida de conciencia"],
+        "complications": ["Riesgo de muerte"],
+        "urgency": ["Corresponde a una Emergencia"],
+        "mc": ["Se realiza con MC"],
+        "signs": ["Hemorragia"],
+        "name": "Aneurisma roto",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-84-imagen-1-AN-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-84-Imagen-2-AN-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-84-imagen-3-AN-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-86-imagen-A-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-86-imagen-B-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-87-imagen-C-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-87-imagen-D-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-87-imagen-E-2-150x150.png"
+        ]
+    },
+    {
+        "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+        "id": "P003",
+        "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-colecistitis-aguda-3.jpg",
+        "ingredients": ["mozzarella", "tomates", "salame", "orégano"],
+        "complications": ["Pancreatitis aguda", "empiema vesicular", "gangrena vesicular o colangitis obstructiva"],
+        "urgency": ["Corresponde a una Urgencia"],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Engrosamiento pared de la vesícula", "Edema del tejido adiposo perivesical", "Colelitiasis"],
+        "name": "salame",
+        "imgs": [
+            "https://www.scielo.cl/img/revistas/rcher/v36n1//0717-7348-rcher-36-01-0048-gf01.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3"
+        ]
+    },
+    {
+        "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+        "id": "P004",
+        "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-colecistitis-aguda-3.jpg",
+        "ingredients": ["mozzarella", "salame", "aceitunas", "champiñones"],
+        "complications": ["Pancreatitis aguda", "empiema vesicular", "gangrena vesicular o colangitis obstructiva"],
+        "urgency": ["Corresponde a una Urgencia"],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Engrosamiento pared de la vesícula", "Edema del tejido adiposo perivesical", "Colelitiasis"],
+        "name": "cuatro estaciones",
+        "imgs": [
+            "https://www.scielo.cl/img/revistas/rcher/v36n1//0717-7348-rcher-36-01-0048-gf01.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3"
+        ]
+    },
+    {
+        "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+        "id": "P005",
+        "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-salame.jpg?alt=media&token=ab3d4bf8-01f2-4810-982b-bd7fb6b517b2",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-colecistitis-aguda-3.jpg",
+        "ingredients": ["mozzarella", "tomates cherry", "bacon", "orégano"],
+        "complications": ["Pancreatitis aguda", "empiema vesicular", "gangrena vesicular o colangitis obstructiva"],
+        "urgency": ["Corresponde a una Urgencia"],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Engrosamiento pared de la vesícula", "Edema del tejido adiposo perivesical", "Colelitiasis"],
+        "name": "bacon",
+        "imgs": [
+            "https://www.scielo.cl/img/revistas/rcher/v36n1//0717-7348-rcher-36-01-0048-gf01.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3"
+        ]
+    },
+    {
+        "desc": "La pizza es una preparación culinaria que consiste en un pan plano, habitualmente de forma circular, elaborado con harina de trigo, levadura, agua y sal (a veces aceite de oliva) que comúnmente se cubre con salsa de tomate, queso y otros muchos ingredientes, y que se hornea a alta temperatura, tradicionalmente en un horno de leña.",
+        "id": "P006",
+        "img": "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-2000595_640_c.jpg?alt=media&token=61325b6e-a1e0-441e-b3b5-7335ba13e8be",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/SIgno-colecistitis-aguda-3.jpg",
+        "ingredients": ["mozzarella", "pimientos", "pollo grillé", "orégano"],
+        "complications": ["Pancreatitis aguda", "empiema vesicular", "gangrena vesicular o colangitis obstructiva"],
+        "urgency": ["Corresponde a una Urgencia"],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Engrosamiento pared de la vesícula", "Edema del tejido adiposo perivesical", "Colelitiasis"],
+        "name": "pollo picante",
+        "imgs": [
+            "https://www.scielo.cl/img/revistas/rcher/v36n1//0717-7348-rcher-36-01-0048-gf01.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fcheese-164872_640_com.jpg?alt=media&token=18b2b821-4d0d-43f2-a1c6-8c57bc388fab",
+            "https://firebasestorage.googleapis.com/v0/b/apis-varias-mias.appspot.com/o/pizzeria%2Fpizza-1239077_640_com.jpg?alt=media&token=e7cde87a-08d5-4040-ac54-90f6c31eb3e3"
+        ]
+    }
+]

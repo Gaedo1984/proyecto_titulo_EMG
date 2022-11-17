@@ -5,7 +5,7 @@ import { formatPrice } from "../utils/utils.js"
 import Ingredients from "./Ingredients.jsx"
 
 const Menu = () => {
-    const {menu, addToCart} = useContext(Context)
+    const {menu} = useContext(Context)
     const navigate = useNavigate()
 
     const viewPizza = (id) => navigate(`/pizza/${id}`)
@@ -20,11 +20,8 @@ const Menu = () => {
                                 <img src={item.img} alt={item.name} />
                                 <h4>{item.name}</h4>
                                 <Ingredients ingredients={item.ingredients}></Ingredients>
-
-                                <h3 className="price">${formatPrice(item.price)}</h3>
                                 <div className="btn-row">
                                     <button className="btn btn-primary" onClick={()=> viewPizza(item.id)}>Ver más</button>
-                                    <button className="btn btn-secondary" onClick={() => addToCart(item)}>Añadir</button>
                                 </div>
                             </div>
                         </div>

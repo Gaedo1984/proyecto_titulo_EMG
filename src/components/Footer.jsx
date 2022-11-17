@@ -1,7 +1,7 @@
 const Footer = () => {
     return(
         <footer>
-            <p>Pizzeria Mamma Mia!</p>
+            <p>Proyecto de grado Tecnología Médica</p>
         </footer>
     )
 }

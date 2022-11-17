@@ -4,8 +4,7 @@
     box-shadow: var(--shadow);
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    position: fixed;
+    justify-content: flex-end;
     top: 0;
     width: 100%;
 }
@@ -13,6 +12,7 @@
 .main-nav h3 {
     color: var(--light);
     text-decoration: none;
+    padding-left: 2rem;
 }
 
 .home-header {
@@ -46,13 +46,45 @@ main {
     width: 80%;
     margin: auto;
     padding: 3rem 0 6rem 0;
-    min-height: calc(100vh - 59px);
+    margin-top: 0;
+    min-height: calc(79vh);
 }
 
 .menu {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+}
+
+.problems {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.carousel-w {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-w img {
+    width: 500px;
+    height: 500px;
+}
+
+.image-problem {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+.image-problem img {
+    width: 100%;
+    max-width: 500px;
+    max-height: 800px;
 }
 
 .card {
@@ -66,6 +98,8 @@ main {
 
 .card .content img {
     width: 100%;
+    min-width: 270px;
+    min-height: 180px;
 }
 
 .card .content h4 {
@@ -118,15 +152,13 @@ footer {
     flex-wrap: wrap;
     box-shadow: var(--shadow);
     border-radius: 4px;
-    margin-top: 63px;
+    margin-top: 10px;
 }
 
 .pizza-view .image {
+    background-size: cover;
+    background-position: center center;
     width: 40%;
-}
-
-.pizza-view .image img {
-    width: 100%;
 }
 
 .pizza-view .content {
@@ -216,7 +248,7 @@ footer {
 
 .not-found,
 .payment {
-    padding-top: 9rem;
+    padding-top: 2rem;
     text-align: center;
 }
 

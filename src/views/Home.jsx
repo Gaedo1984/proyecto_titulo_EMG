@@ -1,13 +1,9 @@
-import Header from "../components/Header.jsx"
-import Menu from "../components/Menu.jsx"
 const Home = () => {
     return(
-        <div>
-            <Header></Header>
-            <main>
-                <Menu></Menu>
-            </main>
-        </div>
+        <main className="payment">
+            <i className="fa-solid fa-truck-medical"></i>
+            <h1>Bienvenidos a las patologías</h1>
+        </main>
     )
 }
 

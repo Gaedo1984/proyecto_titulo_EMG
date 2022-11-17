@@ -7,68 +7,23 @@ import Context from './context/context.js'
 import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
 
-import Home from './views/Home.jsx'
+import Patologia from './views/Patologia.jsx'
 import Pizza from './views/Pizza.jsx'
 import Cart from './views/Cart.jsx'
-import Payment from './views/Payments.jsx'
-import NotFound from './views/notFound.jsx'
-import {formatPrice} from './utils/utils.js' 
+import Home from './views/Home.jsx'
+import NotFound from './views/notFound.jsx' 
 
 function App() {
   const [menu, setMenu] = useState([])
-  const [cart, setCart] = useState([])
-
-  const addToCart = (item) => {
-    const itemIndex = cart.findIndex((pizza) => pizza.id === item.id)
-    // si no encuentra nada, devuelve un -1
-    const updateCart = [...cart]
-
-    if(itemIndex === -1){ 
-      const pizza = {
-        id: item.id,
-        count: 1, 
-        price: item.price,
-        img: item.img,
-        name: item.name
-      }
-
-      updateCart.push(pizza)
-    }else{
-      updateCart[itemIndex].count += 1
-    }
-    setCart(updateCart)
-  }
-
-  const removeFromCart = (id) => {
-    const itemIndex = cart.findIndex((pizza) => pizza.id === id)
-    const updateCart = [...cart]
-
-    updateCart[itemIndex].count -= 1
-
-    if(updateCart[itemIndex].count <= 0  ){
-      updateCart.splice(itemIndex,1)
-    }
-    setCart(updateCart)
-  }
-
-  const cartTotal = () => {
-
-    let total  = 0
-    cart.forEach((pizza) => {
-      total += pizza.price * pizza.count
-    } )
-
-    return formatPrice(total)
-  }
 
   useEffect(() => {
-    fetch('/pizzas.json')
+    fetch('/patologias.json')
     .then((res) => res.json())
     .then((json) => setMenu(json))
     .catch((e) => console.log(e))
   },[])
 
-  const globalState = { menu, cart, addToCart, removeFromCart, cartTotal }
+  const globalState = { menu }
 
   return (
     <div className="App">
@@ -77,9 +32,9 @@ function App() {
         <Navbar></Navbar>
         <Routes>
           <Route path="/" element={<Home/>}></Route>
+          <Route path="/patologia" element={<Patologia/>}></Route>
           <Route path="/pizza/:id" element={<Pizza/>}></Route>
           <Route path="/carrito" element={<Cart/>}></Route>
-          <Route path="/pagar" element={<Payment/>}></Route>
           <Route path="*" element={<NotFound/>}></Route>
         </Routes>
         <Footer></Footer>
