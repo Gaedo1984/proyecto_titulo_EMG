@@ -201,7 +201,7 @@
         ]
     },
     {
-        "desc": "Se produce cuando la parte superior del estómago protruye a través del músculo diafragma el cual separa el abdomen del tórax. Se pueden clasificar en dos tipos: hernia hiatal por deslizamiento (99%) y hernia hiatal paraesofágicas(1%),",
+        "desc": "Se produce cuando la parte superior del estómago protruye a través del músculo diafragma el cual separa el abdomen del tórax. Se pueden clasificar en dos tipos: hernia hiatal por deslizamiento (99%) y hernia hiatal paraesofágicas(1%).",
         "id": "P010",
         "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-hernia-hiatal-1-150x150.png",
         "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-hernia-hiatal.png",
@@ -220,6 +220,112 @@
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-26-Imagen-C-150x150.png",
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-26-Imagen-D-150x150.png",
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-27-Imagen-E-150x150.png"
+        ]
+    },
+    {
+        "desc": "Corresponde a la oclusión del cuello de un divertículo (por material fecal, por una inflamación, etc), con posterior perforación del mismo e inflamación del tejido adiposo vecino.",
+        "id": "P011",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-diverticulitis-1-150x150.png",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-diverticulitis.png",
+        "ingredients": ["Dolor agudo más frecuente en la fosa ilíaca izquierda", "Fiebre"],
+        "complications": ["Puede causar sangrado, desgarros u obstrucciones."],
+        "urgency": ["Emergencia."],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Engrosamiento mural", "Edema del tejido adiposo pericolonico", "Presencia de aire con disposición extraluminal"],
+        "name": "Diverticulitis",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-1-1-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-2-1-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-3-1-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-32-Imagen-A-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-32-Imagen-B-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-33-Imagen-C-1-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-33-Imagen-D-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-34-Imagen-E-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-34-Imagen-F-150x150.png"
+        ]
+    },
+    {
+        "desc": "Suele ocurrir por una oclusión de la luz apendicular, esto provoca acumulación de líquido e inflamación mural, y en casos extremos, isquemia y perforación.Alcanza su mayor incidencia entre los 6 y 12 años. ",
+        "id": "P012",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-apendicitis-1.png",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-apendicitis.png",
+        "ingredients": ["Dolor en FID ", "Aumento espesor mural.", "Estructura hiperdensa en la unión cecoapendicular (apendicolito)."],
+        "complications": ["Úlceras gástricas o perinoneo "],
+        "urgency": ["Emergencia debido a que puede evolucionar a peritonitis."],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Edema tejido adiposo periapendicular.", "Dilatación de la estructura >9mm.", "Aumento espesor mural.", "Estructura hiperdensa en la unión cecoapendicular (apendicolito)."],
+        "name": "Apendicitis",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-1-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-2-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-3-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-38-imagen-A.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-38-imagen-B.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-39-imagen-C.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-39-imagen-D.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-40-imagen-E.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-40-imagen-F.png"
+        ]
+    },
+    {
+        "desc": "Proceso inflamatorio agudo del páncreas. La causa más frecuente en Chile es la litiasis biliar y la transgresión dietética-alcohólica.",
+        "id": "P013",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-pancreatitis-aguda-1.png",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-apendicitis.png",
+        "ingredients": ["Dolor abdominal de aparición brusca, intenso , constante, ubicado en el hemiabdomen superior. ", "Náuseas y vómitos", "Enzimas pancreáticas elevadas en sangre y orina"],
+        "complications": ["Puede causar insuficiencia renal", "Ca de páncreas o problemas respiratorios."],
+        "urgency": ["Urgencia o emergencia."],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Edema del tejido adiposo peripancreático", "Engrosamiento focal, segmentario o difuso de la glándula pancreática.", "En presencia de necrosis realce heterogéneo de la glándula post administración MC"],
+        "name": "Pancreatitis Aguda",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-43-imagen-normal-1.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-43-imagen-normal-2-1.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-43-imagen-normal-3-1.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-45-imagen-A.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-45-imagen-B.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-46-imagen-C.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-46-imagen-D.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-47-imagen-E.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-47-imagen-F.png"
+        ]
+    },
+    {
+        "desc": "Estado final de todas las enfermedades hepáticas crónicas progresivas, caracterizada por una alteración histopatológica difusa del hígado",
+        "id": "P014",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-cirrosis-1.png",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-pancreatitis.png",
+        "ingredients": ["Astenia", "Pérdida de peso", "Anorexia."],
+        "complications": ["Úlceras gástricas o peritoneo "],
+        "urgency": ["Corresponde a una Urgencia"],
+        "mc": ["Se puede realizar con o sin MC"],
+        "signs": ["Ascitis", "Esplenomegalia.", "Várices Esofágicas."],
+        "name": "Cirrosis",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-50-imagen-normal-1.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-50-imagen-normal-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-50-imagen-normal-3.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-55-imagen-normal-1.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-55-imagen-normal-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-55-imagen-normal-3.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-59-imagen-normal-1.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-59-imagen-normal-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-59-imagen-normal-3.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-52-imagen-A.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-52-imagen-B.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-53-imagen-C.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-53-imagen-D.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-54-imagen-E.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-54-imagen-F.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-57-imagen-C.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-57-imagen-D.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-58-imagen-E.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-58-imagen-F.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-60-imagen-3%C2%B0-descripcion-signos-A.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-60-imagen-3%C2%B0-descripcion-signos-B.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-61-imagen-C-2.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-61-imagen-D-2.png"
         ]
     }
 ]
