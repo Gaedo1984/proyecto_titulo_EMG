@@ -1,7 +1,6 @@
 import { useNavigate } from "react-router-dom"
 import { useContext } from "react"
 import Context from "../context/context.js"
-import { formatPrice } from "../utils/utils.js"
 import Ingredients from "./Ingredients.jsx"
 
 const Menu = () => {

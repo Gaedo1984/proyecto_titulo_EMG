@@ -1,3 +1,4 @@
+import { useNavigate } from "react-router-dom"
 import { useParams } from "react-router-dom"
 import { useContext, useState, useEffect } from "react"
 import Context from "../context/context.js"
@@ -10,12 +11,15 @@ import Problems from "../components/Problems.jsx"
 const Pizza = () => {
     const { id } = useParams()
     const { menu } = useContext(Context)
+    const navigate = useNavigate()
 
     const [patologia, setPatologia] = useState({ ingredients: [], imgs: [], complications: [], urgency: [], signs: [], mc: [] })
     useEffect(() => {
         const patologia = menu.filter((item) => item.id === id)
         setPatologia(patologia[0])
     }, [])
+
+    const backHome = () => navigate('/patologia')
 
     return (
         <main>
@@ -63,6 +67,9 @@ const Pizza = () => {
                     <div className="col-sm image-problem">
                         <img src={patologia.img2} alt={patologia.name}></img>
                     </div>
+                </div>
+                <div className="row">
+                    <button className="btn btn-primary" onClick={()=> backHome()}>Volver</button>
                 </div>
             </div>
         </main>
