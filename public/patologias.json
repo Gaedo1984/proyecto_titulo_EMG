@@ -179,15 +179,15 @@
         ]
     },
     {
-        "desc": "Atraviesa el anillo inguinal interno e ingresa en el canal inguinal.",
-        "id": "P008",
+        "desc": "Salida de contenido abdominal el cual sufre un daño en las estructuras intestinales por una compresión de los tejidos que dificulta la vascularización de éstos pudiendo provocar isquemia y posterior necrosis del contenido de la hernia.",
+        "id": "P009",
         "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-hernia-estrangulada-1-150x150.png",
         "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signo-hernia-estrangulada.jpg",
-        "ingredients": ["Presentar bulto", "Dolor", "Hinchazón en la zona"],
-        "complications": ["Hernia estrangulada y alojamiento de la hernia en el escroto."],
-        "urgency": ["Urgencia solo en caso de estrangulamiento o en zona escrotal."],
-        "mc": ["Utiliza Endovenoso y/o Oral"],
-        "signs": ["Signo de semi luna", "Distensión de asas intestinales", "Necrosis por isquemia"],
+        "ingredients": ["Náuseas o vómitos", "Fiebre", "Bulto con coloración y dolor"],
+        "complications": ["prescencia de necrosis."],
+        "urgency": ["Emergencia."],
+        "mc": ["Se utiliza MC para evaluar la presencia de isquemia"],
+        "signs": ["Heterogeneidad de captación de MC en presencia de isquemia", "Edema del tejido (Grasa sucia)"],
         "name": "Hernia Estrangulada",
         "imgs": [
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-18-Imagen-1-normal-150x150.png",
@@ -198,6 +198,28 @@
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-21-Imagen-C-150x150.png",
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-21-Imagen-D-150x150.png",
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-21-Imagen-E-150x150.png"
+        ]
+    },
+    {
+        "desc": "Se produce cuando la parte superior del estómago protruye a través del músculo diafragma el cual separa el abdomen del tórax. Se pueden clasificar en dos tipos: hernia hiatal por deslizamiento (99%) y hernia hiatal paraesofágicas(1%),",
+        "id": "P010",
+        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-hernia-hiatal-1-150x150.png",
+        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-hernia-hiatal.png",
+        "ingredients": ["Dolor abdominal o en el pecho", "Falta de aire", "Vómitos o heces con sangrado de color negro"],
+        "complications": ["Presencia de hernia paraesofágica ya que presentan un alto riesgo de vólvulos y encarcelación."],
+        "urgency": ["Urgencia."],
+        "mc": ["Se encuentra de manera incidental "],
+        "signs": ["Masa retrocardiaca con o sin nivel hidroaéreo", "Ascenso de víscera hueca A través del diafragma"],
+        "name": "Hernia Hiatal",
+        "imgs": [
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-23-Imagen-normal-1-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-23-Imagen-normal-2-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-23-Imagen-normal-3-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-25-Imagen-A-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-25-Imagen-B-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-26-Imagen-C-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-26-Imagen-D-150x150.png",
+            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-27-Imagen-E-150x150.png"
         ]
     }
 ]
