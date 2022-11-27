@@ -101,7 +101,8 @@ main {
 .card .content img {
     width: 100%;
     min-width: 230px;
-    min-height: 220px;
+    min-height: 267.84px;
+    max-height: 267.84px;
 }
 
 .card .content h4 {
@@ -121,6 +122,8 @@ main {
     padding: 0 7.5%;
     margin-top: 1rem;
     border-bottom: 1px solid #ccc;
+    min-height: 269px;
+    max-height: 269px;
 }
 
 .card .ingredients li {
@@ -134,11 +137,20 @@ main {
     margin: 1.5rem 0 0.5rem 0;
 }
 
-.card .btn-row {
+.card .cont-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-height: 50px;
+}
+
+.card .cont-btn .btn-row {
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 1rem;
+    width: 100%;
 }
 
 footer {

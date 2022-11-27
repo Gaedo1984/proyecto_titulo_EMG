@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom"
 import { useContext, useState, useEffect } from "react"
 import Context from "../context/context.js"
 import 'bootstrap/dist/css/bootstrap.min.css'
+import ScrollToTop from "react-scroll-to-top";
 
 import Ingredients from "../components/Ingredients.jsx"
 import Problems from "../components/Problems.jsx"
@@ -17,12 +18,14 @@ const Pizza = () => {
     useEffect(() => {
         const patologia = menu.filter((item) => item.id === id)
         setPatologia(patologia[0])
+        window.scrollTo(0, 0)
     }, [])
 
     const backHome = () => navigate('/patologia')
 
     return (
         <main>
+            <ScrollToTop/>
             <div className="pizza-view">
                 <article className="content">
                     <h4>{patologia.name}</h4>
