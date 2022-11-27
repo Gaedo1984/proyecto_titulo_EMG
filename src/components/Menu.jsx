@@ -1,5 +1,7 @@
+import ScrollToTop from "react-scroll-to-top";
+
 import { useNavigate } from "react-router-dom"
-import { useContext } from "react"
+import { useContext, useEffect } from "react"
 import Context from "../context/context.js"
 import Ingredients from "./Ingredients.jsx"
 
@@ -19,10 +21,13 @@ const Menu = () => {
         return 0;
     })
 
+    useEffect(() => window.scrollTo(0, 0) ,[])
+
     const viewPizza = (id) => navigate(`/pizza/${id}`)
 
     return (
         <section className="menu">
+            <ScrollToTop/>
             {
                 menu.map((item) => {
                     return (

@@ -1,7 +1,7 @@
 const Ingredients = ({ingredients})=> {
     return(
         <div className="ingredients">
-            <p className="bold">Síntomas:</p>
+            <p className="bold">Signos radiológicos:</p>
             <ul>
                 {
                     ingredients.map((ingredient) => {
