@@ -7,7 +7,7 @@ const Navbar = () =>{
     return(
         <nav className="main-nav">
             <Link to="/"><h3>Home</h3></Link>
-            <Link to="/patologia"><h3><i className="fa-solid fa-kit-medical"></i> Patologias</h3></Link>
+            <Link to="/patologia"><h3><i className="fa-solid fa-kit-medical"></i> Patologías</h3></Link>
         </nav>
     )
 }

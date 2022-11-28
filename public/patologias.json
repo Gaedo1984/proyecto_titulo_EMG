@@ -66,7 +66,7 @@
         "id": "P006",
         "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signo-neumoperitoneo-1-150x150.jpg",
         "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Imagen-estatica-Neumoperitoneo.png",
-        "ingredients": ["Imágenes con densidad de aire en la zona extraluminal, al interior de la cavidad peritonea.", "Puede ir acompañado de una víscera perforada o trauma asociados a edema del tejido adiposos."],
+        "ingredients": ["Imágenes con densidad de aire en la zona extraluminal, al interior de la cavidad peritonea.", "Puede ir acompañado de una víscera perforada o trauma asociados a edema del tejido adiposo."],
         "complications": ["Pancreatitis aguda.", "Empiema vesicular.", "Gangrena vesicular o colangitis obstructiva."],
         "urgency": ["Emergencia."],
         "mc": ["No utiliza Medio de contraste."],
@@ -117,7 +117,7 @@
         "ingredients": ["Edema del tejido adiposo.", "Protrusión de tejido.", "Necrosis."],
         "complications": ["prescencia de necrosis."],
         "urgency": ["Emergencia."],
-        "mc": ["Se utiliza MC para evaluar la presencia de isquemia"],
+        "mc": ["Se utiliza Medio de contraste para evaluar la presencia de isquemia."],
         "signs": ["Náuseas o vómitos.", "Fiebre.", "Bulto con coloración y dolor."],
         "name": "Hernia Estrangulada",
         "imgs": [
@@ -139,7 +139,7 @@
         "ingredients": ["Masa retrocardiaca con o sin nivel hidroaéreo.", "Ascenso de víscera hueca a través del diafragma."],
         "complications": ["Presencia de hernia paraesofágica ya que presentan un alto riesgo de vólvulos y encarcelación."],
         "urgency": ["Urgencia."],
-        "mc": ["Se encuentra de manera incidental"],
+        "mc": ["Se encuentra de manera incidental."],
         "signs": ["Dolor abdominal o en el pecho.", "Falta de aire.", "Vómitos o heces con sangrado de color negro."],
         "name": "Hernia Hiatal",
         "imgs": [
@@ -184,7 +184,7 @@
         "ingredients": ["Edema tejido adiposo periapendicular.", "Dilatación de la estructura >9mm.", "Aumento espesor mural.", "Estructura hiperdensa en la unión cecoapendicular (apendicolito)."],
         "complications": ["Úlceras gástricas o peritoneo."],
         "urgency": ["Emergencia debido a que puede evolucionar a peritonitis."],
-        "mc": ["Se puede realizar con o sin medio de contraste"],
+        "mc": ["Se puede realizar con o sin medio de contraste."],
         "signs": ["Dolor en fosa iliaca derecha.", "Aumento espesor mural."],
         "name": "Apendicitis",
         "imgs": [
@@ -207,8 +207,8 @@
         "ingredients": ["Edema del tejido adiposo peripancreático.", "Engrosamiento focal, segmentario o difuso de la glándula pancreática.", "En presencia de necrosis realce heterogéneo de la glándula post administración Medio de contraste."],
         "complications": ["Puede causar insuficiencia renal, cáncer de páncreas o problemas respiratorios."],
         "urgency": ["Urgencia o emergencia."],
-        "mc": ["Se puede realizar con o sin medio de contraste"],
-        "signs": ["Dolor abdominal de aparición brusca, intenso, constante, ubicado en el hemiabdomen superior.", "Náuseas y vómitos", "Enzimas pancreáticas elevadas en sangre y orina."],
+        "mc": ["Se puede realizar con o sin medio de contraste."],
+        "signs": ["Dolor abdominal de aparición brusca, intenso, constante, ubicado en el hemiabdomen superior.", "Náuseas y vómitos.", "Enzimas pancreáticas elevadas en sangre y orina."],
         "name": "Pancreatitis Aguda",
         "imgs": [
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-43-imagen-normal-1.png",
@@ -223,7 +223,7 @@
         ]
     },
     {
-        "desc": "Estado final de todas las enfermedades hepáticas crónicas progresivas, caracterizada por una alteración histopatológica difusa del hígado",
+        "desc": "Estado final de todas las enfermedades hepáticas crónicas progresivas, caracterizada por una alteración histopatológica difusa del hígado.",
         "id": "P014",
         "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signos-rad-cirrosis-1.png",
         "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Imagen-estatica-CIRROSIS.png",
