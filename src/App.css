@@ -122,8 +122,8 @@ main {
     padding: 0 7.5%;
     margin-top: 1rem;
     border-bottom: 1px solid #ccc;
-    min-height: 269px;
-    max-height: 269px;
+    min-height: 304px;
+    max-height: 304px;
 }
 
 .card .ingredients li {
@@ -264,6 +264,7 @@ footer {
 .payment {
     padding-top: 2rem;
     text-align: center;
+    padding-bottom: 1rem;
 }
 
 .not-found h1 {
@@ -282,7 +283,7 @@ footer {
 }
 
 .payment img {
-    max-width: 100px;
+    max-width: 140px;
 }
 
 @media(max-width: 992px) {
