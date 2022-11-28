@@ -16,15 +16,6 @@
     padding-left: 2rem;
 }
 
-.study-zone {
-    background: var(--light);
-    border: solid;
-    margin-bottom: 0;
-    margin-left: 1rem;
-    margin-top: 2rem;
-    max-width: 510px;
-}
-
 .home-header {
     margin-top: 63px;
     width: 100%;
