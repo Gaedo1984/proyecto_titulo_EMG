@@ -85,7 +85,7 @@
         ]
     },
     {
-        "desc": "Se produce por una debilidad en el triángulo de Hesselbach, protruye en forma de saco.",
+        "desc": "Es la protrusión de un órgano u otra estructura anatómica a través de la pared del tronco que normalmente lo contiene; en otras palabras es el debilitamiento de la pared muscular. Directa: Se produce por una debilidad en el triángulo de Hesselbach, protruye en forma de saco. Indirecta: Atraviesa el anillo inguinal interno e ingresa en el canal inguinal.",
         "id": "P007",
         "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signo-hernia-inguinal-D-e-I-1-150x150.jpg",
         "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Imagen-estatica-Hernia-inguina-D-e-I.png",
@@ -94,32 +94,7 @@
         "urgency": ["Urgencia solo en caso de estrangulamiento o en zona escrotal."],
         "mc": ["Utiliza Endovenoso y/o Oral"],
         "signs": ["Presentar un bulto", "Dolor", "Hinchazón en la zona"],
-        "name": "Hernia inguinal Directa",
-        "imgs": [
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-1-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-2-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-3-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-13-imagen-A-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-13-imagen-B-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-14-imagen-C-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-14-imagen-D-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-15-Imagen-E-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-15-Imagen-F-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-16-Imagen-G-150x150.png",
-            "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-16-Imagen-H-150x150.png"
-        ]
-    },
-    {
-        "desc": "Atraviesa el anillo inguinal interno e ingresa en el canal inguinal.",
-        "id": "P008",
-        "img": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Signo-hernia-inguinal-D-e-I-1-150x150.jpg",
-        "img2": "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Imagen-estatica-Hernia-inguina-D-e-I.png",
-        "ingredients": ["Presentar bulto", "Dolor", "Hinchazón en la zona"],
-        "complications": ["Hernia estrangulada y alojamiento de la hernia en el escroto."],
-        "urgency": ["Urgencia solo en caso de estrangulamiento o en zona escrotal."],
-        "mc": ["Utiliza Endovenoso y/o Oral"],
-        "signs": ["Signo de semi luna", "Distensión de asas intestinales", "Necrosis por isquemia"],
-        "name": "Hernia inguinal Indirecta",
+        "name": "Hernia inguinal",
         "imgs": [
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-1-150x150.png",
             "https://tuguiadiagnostica.cl/wp-content/uploads/2022/11/Diapo-11-imagen-normal-2-150x150.png",
