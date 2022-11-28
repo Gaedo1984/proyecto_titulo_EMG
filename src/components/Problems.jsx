@@ -1,7 +1,7 @@
 const Problems = ({complications, urgency, signs, mc})=> {
     return(
         <div className="ingredients">
-            <p className="bold">Urgencia o emergencia</p>
+            <p className="bold">Urgencia o emergencia:</p>
             <ul>
                 {
                     urgency.map((item) => {
@@ -11,7 +11,7 @@ const Problems = ({complications, urgency, signs, mc})=> {
                     })
                 }
             </ul>
-            <p className="bold">Utiliza o no MC</p>
+            <p className="bold">Utiliza o no medio de contraste:</p>
             <ul>
                 {
                     mc.map((item) => {
@@ -31,7 +31,7 @@ const Problems = ({complications, urgency, signs, mc})=> {
                     })
                 }
             </ul>
-            <p className="bold">Signo radiológicos:</p>
+            <p className="bold">Síntomas:</p>
             <ul>
                 {
                     signs.map((item) => {
