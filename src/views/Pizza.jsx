@@ -67,7 +67,8 @@ const Pizza = () => {
                     </div>
                 </div>
                 <div className="row">
-                    <p className="message"><b>*Las imágenes sin flechas de colores corresponden a anatomía normal*</b></p>   
+                    <p className="message"><b>*Las imágenes sin flechas de colores corresponden a anatomía normal*</b></p>
+                    <p className="message"><b>*Imágenes obtenidas de Radiopedia*</b></p>   
                 </div>
                 <div className="row">
                     <div className="col-sm image-problem">
