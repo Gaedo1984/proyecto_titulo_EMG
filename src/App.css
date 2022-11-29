@@ -205,6 +205,10 @@ footer {
     margin-top: 2rem;
 }
 
+.message {
+    text-align: center;
+}
+
 .cart {
     margin-top: 63px;
 }
