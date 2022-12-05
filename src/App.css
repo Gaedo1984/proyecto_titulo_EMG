@@ -64,6 +64,11 @@ main {
     justify-content: space-between;
 }
 
+.carousel {
+    width: 500px;
+    height: 500px;
+}
+
 .carousel-w {
     width: 80%;
     display: flex;
@@ -283,12 +288,12 @@ footer {
 
 .acordion-biblio {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     align-items: center;
     justify-content: left;
     width: 100%;
-    padding-top: 5rem;
-    padding-bottom: 10rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .payment i {
