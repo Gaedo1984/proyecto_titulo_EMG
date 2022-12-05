@@ -336,6 +336,9 @@ footer {
     main {
         width: 90%;
     }
+    .main-nav h3 {
+        font-size: medium;
+    }
     .card {
         width: 100%;
     }
