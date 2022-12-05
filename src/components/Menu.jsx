@@ -10,8 +10,6 @@ const Menu = () => {
     const navigate = useNavigate()
 
     menu.sort((a, b) => {
-        console.log(a.name);
-        console.log(b.name);
         if (a.name.toLowerCase() < b.name.toLowerCase()) {
             return -1;
         }

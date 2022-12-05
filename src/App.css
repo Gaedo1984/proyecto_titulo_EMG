@@ -281,6 +281,16 @@ footer {
     margin-bottom: 3rem;
 }
 
+.acordion-biblio {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
 .payment i {
     font-size: 4rem;
     display: inline-block;

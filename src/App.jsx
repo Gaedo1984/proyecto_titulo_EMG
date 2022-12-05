@@ -12,6 +12,7 @@ import Pizza from './views/Pizza.jsx'
 import Cart from './views/Cart.jsx'
 import Home from './views/Home.jsx'
 import NotFound from './views/notFound.jsx' 
+import Bibliografia from './views/Bibliografia.jsx'
 
 function App() {
   const [menu, setMenu] = useState([])
@@ -35,6 +36,7 @@ function App() {
           <Route path="/patologia" element={<Patologia/>}></Route>
           <Route path="/pizza/:id" element={<Pizza/>}></Route>
           <Route path="/carrito" element={<Cart/>}></Route>
+          <Route path="/bibliografia" element={<Bibliografia/>}></Route>
           <Route path="*" element={<NotFound/>}></Route>
         </Routes>
         <Footer></Footer>
