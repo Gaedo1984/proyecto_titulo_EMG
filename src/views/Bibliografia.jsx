@@ -18,7 +18,7 @@ const Bibliografia = () => {
                     <div id="flush-collapseOne" className="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                         <div className="accordion-body">
                             <ul>
-                                <li><a href="https://radiopaedia.org/cases/36677?lang=us" target="_blank">Imagen 2</a></li>
+                                <li><a href="https://radiopaedia.org/cases/36677?lang=us" target="_blank">Imagen 1</a></li>
                             </ul>
                         </div>
                     </div>
